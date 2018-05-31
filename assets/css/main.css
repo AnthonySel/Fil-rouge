@@ -3150,7 +3150,7 @@
 			z-index: 10001;
 		}
 
-	#menu {
+	/* #menu {
 		-moz-transform: translateX(20em);
 		-webkit-transform: translateX(20em);
 		-ms-transform: translateX(20em);
@@ -3230,7 +3230,7 @@
 				padding: 3em 1.5em;
 			}
 
-		}
+		 } */
 
 	body.is-menu-visible #page-wrapper {
 		opacity: 0.35;
@@ -3291,7 +3291,7 @@
 
 				}
 
-		#header nav {
+		/* #header nav {
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
@@ -3371,7 +3371,7 @@
 				-ms-pointer-events: none;
 				pointer-events: none;
 				opacity: 0;
-			}
+			}*/
 
 /* Banner */
 
