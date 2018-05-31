@@ -2616,14 +2616,14 @@
 	}
 
 		.wrapper > .inner {
-			width: 60em;
+			/* width: 60em; */
 			margin: 0 auto;
 		}
 
 			@media screen and (max-width: 1280px) {
 
 				.wrapper > .inner {
-					width: 90%;
+					/* width: 90%; */
 				}
 
 			}
@@ -3571,7 +3571,7 @@
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		/* display: flex; */
 		max-width: 45em;
 	}
 
@@ -3812,3 +3812,10 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+.image-plan {
+	display: block;
+	position: relative;
+	margin: auto auto;
+	text-align: center;
+}
