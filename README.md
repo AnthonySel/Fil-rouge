@@ -26,12 +26,12 @@ Centre d’Expression et de Créativité (Fédération Wallonie-Bruxelles) – C
 
 # Les différentes phases 
 
-Phase 1 (guerilla style) : un one-pager en 8 heures.
-Phase 2 : (managed style) : étude de la demande
-Phase 3 : Design de la solution "one-pager v2"
-Phase 4 : Création d’un "multipage website"
-Phase 5 : développement d'un Backoffice (CMS)
-Phase 6 : Application mobile / PWA
+* Phase 1 (guerilla style) : un one-pager en 8 heures.
+* Phase 2 : (managed style) : étude de la demande
+* Phase 3 : Design de la solution "one-pager v2"
+* Phase 4 : Création d’un "multipage website"
+* Phase 5 : développement d'un Backoffice (CMS)
+* Phase 6 : Application mobile / PWA
 
 # Lien
 
